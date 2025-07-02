@@ -13,8 +13,8 @@ KIRA is a Solana-based meme token designed to great community , by community to 
 - **Name**: KIRA
 - **Simbol**: KIRA
 - **Total Supply**: 1,000,000,000
-- **Decimals**: 6
-- **Token Address**: [Masukkan Token Address setelah pembuatan]
+- **Decimals**: nan
+- **Token Address**:nan
 
 ## How to Buy
 - Connect your Solana wallet (Phantom/Solflare).
